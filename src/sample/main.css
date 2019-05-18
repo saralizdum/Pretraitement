@@ -1,0 +1,14 @@
+.text{
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+   -fx-background-color: #F7FCFF;
+    -fx-font-family: Cambria;
+}
+.root {
+    -fx-background-color: #7fffd4;
+}
+#tx{
+    -fx-font-family: Cambria;
+    -fx-font-weight:bold;
+    -fx-font-size: 25px;
+}
